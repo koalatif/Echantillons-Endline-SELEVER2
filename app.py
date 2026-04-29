@@ -5,7 +5,7 @@ from streamlit_folium import st_folium
 
 # ── Page config ────────────────────────────────────────────────────────────────
 st.set_page_config(
-    page_title="Échantillons Villages – Burkina Faso",
+    page_title="Evaluation Endline de SELEVER2 de Tanager - Burkina Faso: Visualisation des 5 échantillons Villages tirés",
     page_icon="🗺️",
     layout="wide",
 )
@@ -262,10 +262,10 @@ st.markdown("""
         <div class="flag-y"></div>
     </div>
     <div class="header-text">
-        <h1>🗺️ Cartographie des Échantillons</h1>
+        <h1>🗺️ EVALUATION FINALE DU SELEVER2 DE TANAGER</h1>
         <p>Burkina Faso — Visualisation géographique des villages échantillonnés</p>
     </div>
-    <div class="header-badge">WGS 84 · GPS 6 décimales</div>
+    <div class="header-badge">WGS 84 </div>
 </div>
 """, unsafe_allow_html=True)
 

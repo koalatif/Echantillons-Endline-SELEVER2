@@ -262,7 +262,7 @@ st.markdown("""
         <div class="flag-y"></div>
     </div>
     <div class="header-text">
-        <h1>🗺️ EVALUATION FINALE DU SELEVER2 DE TANAGER</h1>
+        <h1>🗺️ EVALUATION FINALE DU PROJET SELEVER2 DE TANAGER</h1>
         <p>Burkina Faso — Visualisation géographique des villages échantillonnés</p>
     </div>
     <div class="header-badge">WGS 84 </div>
